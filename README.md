@@ -1,4 +1,4 @@
-# Minesweeper
+# Minesweeper(deployed by Debouilles)
 
 A [minesweeper][minesweeper] web application. The backend has been developed
 with the [Phoenix web framework][phoenix] written in [Elixir][elixir]. The
